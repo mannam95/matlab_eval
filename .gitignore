@@ -48,3 +48,6 @@ codegen/
 NFIQ2_scores/
 OLD_NFIQ2_scores/
 nfiq2_scores/
+psnr_scores/
+fps_mae_score/
+diverse/
